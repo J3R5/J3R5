@@ -1,8 +1,6 @@
 <h1 align="center"> Bonjour 👋 Maintenance du Profil en cours </h1>  
 <img align="center" alt="Coding" src="https://cdn.dribbble.com/users/49067/screenshots/3710403/maintenance-panel800600.gif">
 
-<img align="center" alt="Gif CPU" src="https://i.gifer.com/24Qk.gif">
-
 <img align="center" alt="Coding" src="banniere_git.png">
 
 
