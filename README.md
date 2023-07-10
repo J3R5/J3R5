@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src="banniere_git.png">
+<img align="center" alt="Banniere" src="banniere_git.png">
 
 <h1 align="center"> Bonjour 👋 Je suis Jérémy Clémente </h1>
 
